@@ -1,5 +1,4 @@
 # note-author-blocker
-# note author blocker
 
 note.com で特定の作者の投稿を非表示にする Chrome 拡張機能です。
 
